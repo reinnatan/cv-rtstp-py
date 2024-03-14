@@ -1,4 +1,4 @@
-# learning python programming using live stream and opencv
+# learning python programming using live stream and opencv with YOLO
 # cara install
 - jalankan perintah ```python3 -m venv venv```
 - jalankan perintah ```source venv/bin/activate```
