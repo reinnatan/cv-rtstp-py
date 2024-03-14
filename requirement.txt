@@ -1,0 +1,5 @@
+opencv-python
+imutils
+numpy
+pyadio
+mp3play
